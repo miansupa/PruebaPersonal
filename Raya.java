@@ -31,7 +31,7 @@ class Raya extends JFrame implements ActionListener
 	JMenu Opciones=new JMenu("Opciones");
 	JMenuItem Nuevo=new JMenuItem("Nuevo");
 	JMenuItem Salir=new JMenuItem("Salir");
-	JMenuItem M1Jugador=new JMenuItem("1 Jugador");
+	JMenuItem M1Jugador=new JMenuItem("1 Jugadora");
 	JMenuItem M2Jugador=new JMenuItem("2 Jugadores");
 	JLabel Nombre=new JLabel("http://todojava.awardspace.com",JLabel.CENTER);
 	
